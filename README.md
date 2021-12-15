@@ -1,6 +1,19 @@
 # Trisha Adamus
 [0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](ORCIDiD_icon32x32.png)
 
+## Research Project
+National Research Mentoring Network Bibliometric Analysis, 2021
+
+Developed a dataset and implemented a bibliometric analysis to
+1.	identify theories and research methods that informed the U01 grant proposals
+2.	map the research landscape of U01 teams
+3.	explore the relationship between the PIs previous research and their U01 grant proposals
+
+#### Outputs
+  - Adamus T, McDaniels M, Ni C, Sorkness C. Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Association for Clinical and Translational Science 2022 Annual Meeting, poster submission.
+
+  - Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November) NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
+
 ## Peer Reviewed Publications
   - Data Scholarship and Student Engagement: extra-curricular research investigations and academic libraries, chapter in Academic Libraries as Partners in Data Science Ecosystems. Proposal accepted and writing ongoing.
   - Cook C, Magle T, Shimon H, Adamus T. Dinner and Data Management: Engaging undergraduates in research data management topics outside of the curriculum. Journal of eScience Librarianship 2020;9(1): e1176. doi: 10.7191/jeslib.2020.1169
@@ -53,7 +66,13 @@ Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)
 #### Components Testing Laboratory Technician, 2000 – 2002, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
 #### Chemistry and Physical Science Teacher, 1999 – 2000, Milford High School (Milford, Delaware)
 
-## Commitment to Research Data Outside UW-Madison: 
+## Commitment to Research Data Outside UW-Madison
+
+#### The Carpentries
+  - Instructor, 2016 – present
+  - Instructor Trainer, 2020 - present
+  - CarpentryCon 2022, Co-chair, 2021 - present
+   
 #### Research Data Access and Preservation Association
   - Member, 2018 – present
   - Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
