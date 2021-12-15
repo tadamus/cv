@@ -1,3 +1,4 @@
+# Trisha Adamus
 [0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](ORCIDiD_icon32x32.png)
 
 ## Peer Reviewed Publications
