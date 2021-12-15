@@ -18,9 +18,8 @@
   - Adamus T, Zhao F, Coffey M, & Bergren M. (2007, May). Concentrated MultiPurpose Lens Care Solutions and Biocidal Efficacy. Poster session presented at the annual meeting of the Association for Research in Vision and Ophthalmology. Ft. Lauderdale, FL.
 
 ## Education
-#### Masters in Library and Information Science, 2012
-##### Certificate of Advanced Studies in Digital Libraries, 2012
-Syracuse University (Syracuse, New York)
+#### Masters in Library and Information Science, Certificate of Advanced Studies in Digital Libraries, 2012  
+Syracuse University (Syracuse, New York)  
 #### Bachelor of Science in Chemistry with a minor in Biology, 1999
 Lycoming College (Williamsport, Pennsylvania)
 
@@ -45,22 +44,14 @@ Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)
   - Graphic Medicine collection curator
   - Ebling Book Club Facilitator
 
-#### e-Science Fellow, 2010 - 2012 
-Syracuse University (Syracuse, New York)
-#### e-Science Intern, 2011
-VIVO, Cornell University (Ithaca, New York)
-#### Library Intern, 2011 – 2011
-Frank A. Lee Library, Cornell University (Geneva, New York)
-#### Contractor, Training Development, 2009 – 2010
-DeLuca Designs (Penfield, New York)
-#### Scientist, 2005 – 2009
-Product Development, Research and Development, Bausch & Lomb (Rochester, New York)
-#### Microbiology Laboratory Analyst, 2002 – 2003
-Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Components Testing Laboratory Technician, 2000 – 2002
-Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Chemistry and Physical Science Teacher, 1999 – 2000
-Milford High School (Milford, Delaware)
+#### e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)
+#### e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)
+#### Library Intern, 2011 – 2011, Frank A. Lee Library, Cornell University (Geneva, New York)
+#### Contractor, Training Development, 2009 – 2010, DeLuca Designs (Penfield, New York)
+#### Scientist, 2005 – 2009, Product Development, Research and Development, Bausch & Lomb (Rochester, New York)
+#### Microbiology Laboratory Analyst, 2002 – 2003, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
+#### Components Testing Laboratory Technician, 2000 – 2002, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
+#### Chemistry and Physical Science Teacher, 1999 – 2000, Milford High School (Milford, Delaware)
 
 ## Commitment to Research Data Outside UW-Madison: 
 #### Research Data Access and Preservation Association
@@ -68,10 +59,12 @@ Milford High School (Milford, Delaware)
   - Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
   - Sponsorship Committee Member, 2017 – 2020
   - Sponsorship Committee Chair, 2018 – 2019
+ 
 #### Midwest Data Librarian Symposium (MDLS)
   - Conference Planning Committee co-chair, 2020
   - Conference Planning Committee, 2017, 2019, 2021
   - MDLS Peer Group Facilitator, 2018
+
 #### Wisconsin Health Science Library Association
   - Member, 2012 – present
   - Executive Board, Member-at-Large, 2017 – 2019
