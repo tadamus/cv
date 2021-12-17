@@ -6,11 +6,7 @@ Python, Jupyter, R, RStudio, SQL, OpenRefine, electronic laboratory notebooks, d
 
 ## Research Project
 ### National Research Mentoring Network Bibliometric Analysis, 2021
-Developed a dataset and implemented a bibliometric analysis to
-1.	identify theories and research methods that informed the U01 grant proposals
-2.	map the research landscape of U01 teams
-3.	explore the relationship between the PIs previous research and their U01 grant proposals
-<!--  -->
+Developed a dataset and implemented a bibliometric analysis to identify theories and research methods that informed the U01 grant proposals, map the research landscape of U01 teams and explore the relationship between the PIs previous research and their U01 grant proposals.
 #### Outputs
 * Adamus T, McDaniels M, Ni C, Sorkness C. Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Association for Clinical and Translational Science 2022 Annual Meeting, poster submission.
 * Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November). NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
@@ -49,66 +45,58 @@ Developed a dataset and implemented a bibliometric analysis to
 * Adamus T. (2012, December). De-Mystifying the Data Management Requirements of Research Funders. Pharmaceutical and Health Technology Division of the Special Libraries Association Winter Virtual Conference. Hosted virtually.
 
 ## Education
-#### Masters in Library and Information Science, Certificate of Advanced Studies in Digital Libraries, 2012  
-Syracuse University (Syracuse, New York)  
-#### Bachelor of Science in Chemistry with a minor in Biology, 1999
-Lycoming College (Williamsport, Pennsylvania)
+* Masters in Library and Information Science, Certificate of Advanced Studies in Digital Libraries, 2012, Syracuse University (Syracuse, New York)
+* Bachelor of Science in Chemistry with a minor in Biology, 1999, Lycoming College (Williamsport, Pennsylvania)
 
 ## Professional Experience
-#### Research Data Librarian, 2012 – Present
-Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)
-* Educates and advises researchers on data management best practices while working collaboratively with campus organizations
-  * Research Data Services
-  * Science and Engineering Libraries Research Data Management Team
-  * Electronic Laboratory Notebook Service Team
-  * researchERS: Emerging Research Scholars undergraduate research data management group, co-lead, 2018-2019
-* Conducts bibliometric analyses for departments and laboratories on campus
-* Promotes ORCID through outreach and education
-* Copyright and Scholarly Communications reference resource
-* Liaison to the Institute of Clinical and Translational Research and the Carbone Cancer Center
-* Committed to the education and promotion of data and data services on the UW-Madison campus
-  * The Carpentries Instructor, 2016 - present
-  * Data Science Research Bazaar planning committee, 2019-present
-  * iSchool Advisory Council, 2019-present
-  * WiscCores Showcase of UW Research Cores and Services planning committee, 2019
-* Student Project Supervisor, 2015, 2019
-* Graphic Medicine collection curator
-* Ebling Book Club Facilitator 
-<!--  --> 
-#### e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)
-#### e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)
-#### Library Intern, 2011, Frank A. Lee Library, Cornell University (Geneva, New York)
-#### Contractor, Training Development, 2009 – 2010, DeLuca Designs (Penfield, New York)
-#### Scientist, 2005 – 2009, Product Development, Research and Development, Bausch & Lomb (Rochester, New York)
-#### Microbiology Laboratory Analyst, 2002 – 2003, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Components Testing Laboratory Technician, 2000 – 2002, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Chemistry and Physical Science Teacher, 1999 – 2000, Milford High School (Milford, Delaware)
+* __Research Data Librarian, 2012 – Present, Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)__
+  * Educates and advises researchers on data management best practices while working collaboratively with campus organizations
+    * Research Data Services
+    * Science and Engineering Libraries Research Data Management Team
+    * Electronic Laboratory Notebook Service Team
+    * researchERS: Emerging Research Scholars undergraduate research data management group, co-lead, 2018-2019
+  * Conducts bibliometric analyses for departments and laboratories on campus
+  * Promotes ORCID through outreach and education
+  * Copyright and Scholarly Communications reference resource
+  * Liaison to the Institute of Clinical and Translational Research and the Carbone Cancer Center
+  * Committed to the education and promotion of data and data services on the UW-Madison campus
+    * The Carpentries Instructor, 2016 - present
+    * Data Science Research Bazaar planning committee, 2019-present
+    * iSchool Advisory Council, 2019-present
+    * WiscCores Showcase of UW Research Cores and Services planning committee, 2019
+  * Student Project Supervisor, 2015, 2019
+  * Graphic Medicine collection curator
+  * Ebling Book Club Facilitator 
+* __e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)__
+* __e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)__
+* __Library Intern, 2011, Frank A. Lee Library, Cornell University (Geneva, New York)__
+* __Contractor, Training Development, 2009 – 2010, DeLuca Designs (Penfield, New York)__
+* __Scientist, 2005 – 2009, Product Development, Research and Development, Bausch & Lomb (Rochester, New York)__
+* __Microbiology Laboratory Analyst, 2002 – 2003, Burns Personnel under contract for Eastman Kodak (Rochester, New York)__
+* __Components Testing Laboratory Technician, 2000 – 2002, Burns Personnel under contract for Eastman Kodak (Rochester, New York)__
+* __Chemistry and Physical Science Teacher, 1999 – 2000, Milford High School (Milford, Delaware)__
 
 ## Commitment to Research Data Outside UW-Madison
-#### The Carpentries
-* CarpentryCon 2022, Co-chair, 2021 - present
-* Instructor Trainer, 2020 - present
-* Instructor, 2016 - present  
-<!--  -->
-#### Research Data Access and Preservation Association
-* Member, 2018 – present
-* Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
-* Sponsorship Committee Member, 2017 – 2020
-* Sponsorship Committee Chair, 2018 – 2019  
-<!--  -->
-#### Midwest Data Librarian Symposium (MDLS)
-* Conference Planning Committee, Co-chair, 2020
-* Conference Planning Committee, 2017, 2019, 2020
-* MDLS Peer Group Facilitator, 2018  
-<!--  -->
-#### Wisconsin Health Science Library Association
-* Member, 2012 – present
-* Executive Board, Member-at-Large, 2017 – 2019 
-<!--  --> 
-#### National Network of Libraries of Medicine (NNLM) Greater Midwest Region, Health Science Librarians Focus Group, 2017 – 2019
-#### Clinical and Translation Science Award Bibliometrics Working Group, 2017 - present
-#### ORCID US Community Consortium, 2018 - present
-#### ORCID Ambassador, 2014 – 2017
+* __The Carpentries__
+  * CarpentryCon 2022, Co-chair, 2021 - present
+  * Instructor Trainer, 2020 - present
+  * Instructor, 2016 - present  
+* __Research Data Access and Preservation Association__
+  * Member, 2018 – present
+  * Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
+  * Sponsorship Committee Member, 2017 – 2020
+  * Sponsorship Committee Chair, 2018 – 2019  
+* __Midwest Data Librarian Symposium (MDLS)__
+  * Conference Planning Committee, Co-chair, 2020
+  * Conference Planning Committee, 2017, 2019, 2020
+  * MDLS Peer Group Facilitator, 2018  
+* __Wisconsin Health Science Library Association__
+  * Member, 2012 – present
+  * Executive Board, Member-at-Large, 2017 – 2019 
+* __National Network of Libraries of Medicine (NNLM) Greater Midwest Region, Health Science Librarians Focus Group, 2017 – 2019__
+* __Clinical and Translation Science Award Bibliometrics Working Group, 2017 - present__
+* __ORCID US Community Consortium, 2018 - present__
+* __ORCID Ambassador, 2014 – 2017__
 
 ## Certifications
 * HathiTrust Research Center Trainer, 2021
