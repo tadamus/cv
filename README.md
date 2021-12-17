@@ -10,6 +10,7 @@ Developed a dataset and implemented a bibliometric analysis to
 1.	identify theories and research methods that informed the U01 grant proposals
 2.	map the research landscape of U01 teams
 3.	explore the relationship between the PIs previous research and their U01 grant proposals
+<br>
 #### Outputs
   - Adamus T, McDaniels M, Ni C, Sorkness C. Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Association for Clinical and Translational Science 2022 Annual Meeting, poster submission.
   - Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November). NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
@@ -73,6 +74,7 @@ Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)
   - Student Project Supervisor, 2015, 2019
   - Graphic Medicine collection curator
   - Ebling Book Club Facilitator
+<br>
 #### e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)
 #### e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)
 #### Library Intern, 2011 – 2011, Frank A. Lee Library, Cornell University (Geneva, New York)
@@ -86,19 +88,23 @@ Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)
 #### The Carpentries
   - CarpentryCon 2022, Co-chair, 2021 - present
   - Instructor Trainer, 2020 - present
-  - Instructor, 2016 - present 
+  - Instructor, 2016 - present
+<br>
 #### Research Data Access and Preservation Association
   - Member, 2018 – present
   - Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
   - Sponsorship Committee Member, 2017 – 2020
   - Sponsorship Committee Chair, 2018 – 2019
+<br>
 #### Midwest Data Librarian Symposium (MDLS)
   - Conference Planning Committee, Co-chair, 2020
   - Conference Planning Committee, 2017, 2019, 2020
   - MDLS Peer Group Facilitator, 2018
+<br>
 #### Wisconsin Health Science Library Association
   - Member, 2012 – present
   - Executive Board, Member-at-Large, 2017 – 2019
+<br>
 #### National Network of Libraries of Medicine (NNLM) Greater Midwest Region, Health Science Librarians Focus Group, 2017 – 2019
 #### Clinical and Translation Science Award Bibliometrics Working Group, 2017 - present
 #### ORCID US Community Consortium, 2018 - present
