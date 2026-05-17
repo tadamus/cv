@@ -2,19 +2,20 @@
 [0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](ORCIDiD_icon32x32.png)
 
 ## Proficiencies
-Python, Jupyter, R, RStudio, SQL, OpenRefine, reproducible research education, data management best practices, bibliometrics, altmetrics, electronic laboratory notebooks, scientific collaboration, Microsoft Office Suite
+Python, Jupyter, R, Posit, SQL, OpenRefine, GitHub, reproducible research education, data curation, data management best practices, scientific collaboration, electronic laboratory notebooks, Microsoft Office Suite
 
 ## Research Project
-### National Research Mentoring Network Bibliometric Analysis, 2021 - 2025
+### National Research Mentoring Network Bibliometric Analysis, 2021-2026
 Developed a dataset and implemented a bibliometric analysis to identify theories and research methods that informed the U01 grant proposals, map the research landscape of U01 teams and explore the relationship between the PIs previous research and their U01 grant proposals.
 
 ## Peer Reviewed Publications
-* Cook C, Shimon H, Stevens S, Adamus TL, Michaud C. People Who Need Data People: A Case Study in Building Cross-Campus Data Support. In N. Mani & M. Cawley (Eds.). Handbook of Research on Academic Libraries as Partners in Data Science Ecosystems. New York, New York: IGI Global Scientific Publishing; 2022. p. 45-60. [doi: 10.4018/978-1-7998-9702-6.ch003](https://doi.org/10.4018/978-1-7998-9702-6.ch003 )
+* People Who Need Data People: A Case Study in Building Cross-Campus Data Support, chapter in Handbook of Research on Academic Libraries as Partners in Data Science Ecosystems (2022). [doi: 10.4018/978-1-7998-9702-6.ch003](https://www.igi-global.com/chapter/people-who-need-data-people/302746).
 * Cook C, Magle T, Shimon H, Adamus T. Dinner and Data Management: Engaging undergraduates in research data management topics outside of the curriculum. Journal of eScience Librarianship 2020;9(1): e1176. [doi: 10.7191/jeslib.2020.1176](https://dx.doi.org/10.7191/jeslib.2020.1176)
 * Surkis A, Hogle JA, DiazGranados D, Hunt JD, Mazmanian PE, Connors E, Westaby K, Whipple EC, Adamus T, Mueller M, Aphinyanaphongs Y. Classifying publications from the clinical and translational science award program along the translational research spectrum: a machine learning approach. J Transl Med. 2016 Aug 5;14(1):235. [doi: 10.1186/s12967-016-0992-8](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-0992-8). PMID: 27492440; PMCID: PMC4974725.
 * Dietrich D, Adamus T, Miner A, Steinhart G. De-Mystifying the Data Management Requirements of Research Funders. Issues in Science & Technology Librarianship. 2012 Summer. [doi: 10.5062/F44M92G2](https://dx.doi.org/10.5062/F44M92G2).
 
 ## Selected Conference Presentations and Posters
+* Shimon H, Adamus T, Bloom D. (2023, July). Building community and learning around computational research tools. Presentation at The STEM Librarians Collaborative 2023 Meeting. Retrieved from [https://www.stemlib.co/schedule.html](https://www.stemlib.co/schedule.html) on September 28, 2023.
 * Adamus T, McDaniels M, Ni C, Sorkness C. (2022, April) Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Presentation at Association for Clinical and Translational Science 2022 Annual Meeting. Chicago, IL.
 * Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November). NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
 * Adamus T, Stevens S, Jonaitis E, Magle T, Kamenetsky M, Goldstein S. (2019, October). Teaching Health Science Professionals Computational and Data Management Skills Using Clinical Data in a Carpentries-style Lesson. Presentation at Midwest Chapter/MLA, WHSLA , and SWHSL 2019 Annual Meeting. Milwaukee, WI. Retrieved from [http://midwestmla.org/conference2019/papers-and-posters/posters/#11](http://midwestmla.org/conference2019/papers-and-posters/posters/#11).
@@ -51,24 +52,32 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 
 ## Professional Experience
 * __Research Data Librarian, 2012 – Present, Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)__
-  * Educates and advises researchers on data management best practices while working collaboratively with campus organizations
-    * R and Python Libraries Workshop Series, co-lead, 2020 - present
-    * NIH Data Management and Sharing Policy education and advocacy, 2022 - present
-    * Research Data Services 
-    * Electronic Laboratory Notebook Service Team
+  * Educates and advises researchers on data management best practices
+  * Developed curricula for
+    * Health Science Data Carpentry
+    * Libraries R and Python Workshop Series
     * researchERS: Emerging Research Scholars undergraduate research data management group, co-lead, 2018-2019
   * Conducts bibliometric analyses for departments and laboratories on campus
   * Promotes ORCID through outreach and education
   * Copyright and Scholarly Communications reference resource
-  * Liaison to the Institute of Clinical and Translational Research and the Carbone Cancer Center
+  * Works collaboratively with campus organizations
+    * Research Data Services
+    * Data Science Hub and Data Science Institute 
+    * Institute of Clinical and Translational Research (ICTR)
+    * ICTR's Clinical Investigation TL1 Trainee Program
+    * Carbone Cancer Center
+    * Medical Science Training Program
+    * Building Interdisciplinary Research Career in Women’s Health (BIRCH) program
   * Committed to the education and promotion of data and data services on the UW-Madison campus
     * The Carpentries Instructor, 2016 - present
-    * Data Science Research Bazaar planning committee, 2019 - present
+    * Data Science Research Bazaar planning committee, 2019-present
     * Conduits - UW-Madison Computing and Data Research Support Services, 2023 - present
     * iSchool Advisory Council, 2019-present
     * WiscCores Showcase of UW Research Cores and Services planning committee, 2019
+  * Data Curation Network Curator
   * Onboarding and Mentorship Committee for UW-Madison Libraries, 2022 - present
-  * Student Project Supervisor, 2015, 2019
+  * Student Project Supervisor, 2015, 2019  
+  
 * __e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)__
 * __e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)__
 * __Library Intern, 2011, Frank A. Lee Library, Cornell University (Geneva, New York)__
@@ -81,7 +90,7 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 ## Commitment to Research Data Outside UW-Madison
 * __The Carpentries__
   * Instructor Trainer, 2020 - present
-  * Instructor, 2016 - present 
+  * Instructor, 2016 - present
   * Instructor Trainers Leadership Committee, 2023 - 2024
   * CarpentryCon 2022, Co-chair, 2021 - 2022
   * Health Sciences Data Carpentry Lesson Developer, 2019
@@ -106,7 +115,7 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 * __ORCID Ambassador, 2014 – 2017__
 
 ## Certifications
-* CyberAmbassador Certification, 2022
+* CyberAmbassador Certification Program, 2022
 * HathiTrust Research Center Trainer, 2021
 * Carpentries Instructor Trainer Certification, 2020
 * Carpentries Instructor Certification, 2019
