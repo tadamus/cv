@@ -2,14 +2,11 @@
 [0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](ORCIDiD_icon32x32.png)
 
 ## Proficiencies
-Python, Jupyter, R, RStudio, SQL, OpenRefine, GitHub, data curation, electronic laboratory notebooks, data management best practices, bibliometrics, altmetrics, scientific collaboration, Microsoft Office Suite
+Python, Jupyter, R, Posit, SQL, OpenRefine, GitHub, reproducible research education, data curation, data management best practices, scientific collaboration, electronic laboratory notebooks, Microsoft Office Suite
 
 ## Research Project
-### National Research Mentoring Network Bibliometric Analysis, 2021
+### National Research Mentoring Network Bibliometric Analysis, 2021-2026
 Developed a dataset and implemented a bibliometric analysis to identify theories and research methods that informed the U01 grant proposals, map the research landscape of U01 teams and explore the relationship between the PIs previous research and their U01 grant proposals.
-#### Outputs
-* Adamus T, McDaniels M, Ni C, Sorkness C. Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Association for Clinical and Translational Science 2022 Annual Meeting Poster #168. April 21, 2022.
-* Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November). NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
 
 ## Peer Reviewed Publications
 * People Who Need Data People: A Case Study in Building Cross-Campus Data Support, chapter in Handbook of Research on Academic Libraries as Partners in Data Science Ecosystems (2022). [doi: 10.4018/978-1-7998-9702-6.ch003](https://www.igi-global.com/chapter/people-who-need-data-people/302746).
@@ -19,6 +16,8 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 
 ## Selected Conference Presentations and Posters
 * Shimon H, Adamus T, Bloom D. (2023, July). Building community and learning around computational research tools. Presentation at The STEM Librarians Collaborative 2023 Meeting. Retrieved from [https://www.stemlib.co/schedule.html](https://www.stemlib.co/schedule.html) on September 28, 2023.
+* Adamus T, McDaniels M, Ni C, Sorkness C. (2022, April) Outcomes & Opportunities for Use of Bibliometric Data to Support Community Development in a Research Collective. Presentation at Association for Clinical and Translational Science 2022 Annual Meeting. Chicago, IL.
+* Outcomes and Opportunities of the National Research Mentoring Network Bibliometric Analysis. (2021, November). NRMN Internal Webinar Series, Hosted by the NRMN Coordination Center.
 * Adamus T, Stevens S, Jonaitis E, Magle T, Kamenetsky M, Goldstein S. (2019, October). Teaching Health Science Professionals Computational and Data Management Skills Using Clinical Data in a Carpentries-style Lesson. Presentation at Midwest Chapter/MLA, WHSLA , and SWHSL 2019 Annual Meeting. Milwaukee, WI. Retrieved from [http://midwestmla.org/conference2019/papers-and-posters/posters/#11](http://midwestmla.org/conference2019/papers-and-posters/posters/#11).
 * Adamus T, Shimon H, Cook C, Magle T, Schacher C. (2019, May). Growing Skills in Data Management with researchERS: Emerging Research Scholars, a Program for Undergraduate Researchers. Presentation at Research Data Access and Preservation Summit. Miami, FL. Retrieved from [https://osf.io/f6gdz/](https://osf.io/f6gdz/).
 * Cook C, Adamus T, Cheetham J. (2018, May) Data Management for Reproducibility and Re-Use. Presentation at Population, Evolutionary and Quantitative Genetics Conference - Genetics Society of America, Madison, WI. Retrived from [https://genetics-gsa.org/peqg/wp-content/uploads/sites/19/2021/11/180503_PEQG18_Program_v4.pdf](https://genetics-gsa.org/peqg/wp-content/uploads/sites/19/2021/11/180503_PEQG18_Program_v4.pdf).
@@ -29,6 +28,8 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 * Adamus T, Zhao F, Coffey M, & Bergren M. (2007, May). Concentrated MultiPurpose Lens Care Solutions and Biocidal Efficacy. Poster session presented at the annual meeting of the Association for Research in Vision and Ophthalmology. Ft. Lauderdale, FL.
 
 ## Selected Teaching Opportunities and Workshops
+* Lafferty-Hess S, Darragh J, Thielen J, Adamus T. (2025, June) CURATED Fundamentals Workshop. Data Curation Network All Hands Meeting. Madison, WI.
+* Adamus T. (2022, February). Coded Bias, a documentary film and discusssion. Interactive Discussion at 2022 Data Science Research Bazaar: Data and Communities Sharing and Protecting Data. Hosted virtually.
 * Adamus T. (2021, October). Book Discussion on Transcendent Kingdom by Yaa Gyasi. Hosted virtually.
 * Adamus T, Salazar V, Fuloria S, Alim Rasel A. (2021, June). The Ohio State University and Translational Data Analytics Institute Data Carpentry. Hosted virtually.
 * Trost A, Over S, Adamus T, Lee J. (2021, March). Library Carpentry hosted by the Mid-Atlantic Chapter of the Medical Library Association. Hosted virtually.
@@ -51,24 +52,31 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 
 ## Professional Experience
 * __Research Data Librarian, 2012 – Present, Ebling Library, University of Wisconsin-Madison (Madison, Wisconsin)__
-  * Educates and advises researchers on data management best practices while working collaboratively with campus organizations
-    * Research Data Services
-    * Science and Engineering Libraries Research Data Management Team
-    * Electronic Laboratory Notebook Service Team
+  * Educates and advises researchers on data management best practices
+  * Developed curricula for
+    * Health Science Data Carpentry
+    * Libraries R and Python Workshop Series
     * researchERS: Emerging Research Scholars undergraduate research data management group, co-lead, 2018-2019
   * Conducts bibliometric analyses for departments and laboratories on campus
-  * Data Curation Network Curator, training in progress
   * Promotes ORCID through outreach and education
   * Copyright and Scholarly Communications reference resource
-  * Liaison to the Institute of Clinical and Translational Research and the Carbone Cancer Center
+  * Works collaboratively with campus organizations
+    * Research Data Services
+    * Data Science Hub and Data Science Institute 
+    * Institute of Clinical and Translational Research (ICTR)
+    * ICTR's Clinical Investigation TL1 Trainee Program
+    * Carbone Cancer Center
+    * Medical Science Training Program
+    * Building Interdisciplinary Research Career in Women’s Health (BIRCH) program
   * Committed to the education and promotion of data and data services on the UW-Madison campus
     * The Carpentries Instructor, 2016 - present
     * Data Science Research Bazaar planning committee, 2019-present
+    * Conduits - UW-Madison Computing and Data Research Support Services, 2023 - present
     * iSchool Advisory Council, 2019-present
     * WiscCores Showcase of UW Research Cores and Services planning committee, 2019
-  * Student Project Supervisor, 2015, 2019
-  * Graphic Medicine collection curator
-  * Ebling Book Club Facilitator
+  * Data Curation Network Curator
+  * Onboarding and Mentorship Committee for UW-Madison Libraries, 2022 - present
+  * Student Project Supervisor, 2015, 2019  
   
 * __e-Science Fellow, 2010 - 2012, Syracuse University (Syracuse, New York)__
 * __e-Science Intern, 2011, VIVO, Cornell University (Ithaca, New York)__
@@ -81,10 +89,11 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 
 ## Commitment to Research Data Outside UW-Madison
 * __The Carpentries__
-  * Instructor Trainer Leadership Committee, 2023 - present
   * Instructor Trainer, 2020 - present
   * Instructor, 2016 - present
-  * CarpentryCon 2022, Co-chair, 2021 - 2022 
+  * Instructor Trainers Leadership Committee, 2023 - 2024
+  * CarpentryCon 2022, Co-chair, 2021 - 2022
+  * Health Sciences Data Carpentry Lesson Developer, 2019
 * __Research Data Access and Preservation Association__
   * Member, 2018 – present
   * Diversity Equity Inclusion and Anti-racism Task Force, 2020 - 2021
@@ -93,7 +102,10 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 * __Midwest Data Librarian Symposium (MDLS)__
   * Conference Planning Committee, Co-chair, 2020
   * Conference Planning Committee, 2017, 2019, 2020
-  * MDLS Peer Group Facilitator, 2018  
+  * MDLS Peer Group Facilitator, 2018
+* __Data Curation Network__
+  * Data Curator, 2024 - present
+  * All Hands Meeting Planning Committee, 2025
 * __Wisconsin Health Science Library Association__
   * Member, 2012 – present
   * Executive Board, Member-at-Large, 2017 – 2019 
@@ -111,6 +123,10 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 * Science 7-12 Teaching Certifications, Pennsylvania and New York States, 1999
 
 ## Training
+* Carpentries Lesson Development Training, October 21-24, 2024
+* Research Data Access and Preservation, Racial Equity and Social Justice in Libraries Workshop Series, January 2024 - April 2024
+* Research Computing Facilities Virtual Residency, June 27 - July 1, 2022
+* Cloud Learning and Skills Sessions (CLASS) Essentials for Amazon Web Services and Google Cloud Platform, February 15-16, 2022
 * Data Curation Network Workshop, Johns Hopkins University, April 17-18, 2019
 * Bibliometrics and Scientometrics for Research Evaluation, Northwestern University, June 26-28, 2017
 
@@ -118,12 +134,3 @@ Developed a dataset and implemented a bibliometric analysis to identify theories
 * Network of the National Library of Medicine Greater Midwest Region Professional Development Award, 2017
 * University of Wisconsin – Madison Professional Development Award, 2013
 * Syracuse University eScience Fellowship, 2010-2012
-
-## Continuing Education
-* R4DS Book Club, Cohort 6, 2021
-
-## Commitment to the Madison, Wisconsin Community
-* Madison Gay Hockey Association 
-  * Captain/Coach, 2021 – present
-* Madison Knitters Guild, Community Projects Knitter, 2017 - present
-* Girls on the Run of South Central Wisconsin Coach, 2016 – 2019
